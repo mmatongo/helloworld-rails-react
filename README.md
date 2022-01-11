@@ -2,6 +2,10 @@
 
 > Hello world" project with rails-react gem
 
+## Screenshot
+
+![img](./scr/screenshot.png)
+
 ## Built With
 
 - Ruby on Rails
